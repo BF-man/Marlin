@@ -1032,8 +1032,7 @@
 // Invert the stepper direction. Change (or reverse the motor connector) if an axis goes the wrong way.
 #define INVERT_X_DIR false
 #define INVERT_Y_DIR false
-#define INVERT_Z_DIR false
-
+#define INVERT_Z_DIR true
 // @section extruder
 
 // For direct drive extruder v9 set to true, for geared extruder set to false.
